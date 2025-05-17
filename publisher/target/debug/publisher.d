@@ -1,0 +1,1 @@
+C:\Users\USER\Documents\kuliah\Pemrograman\ Lanjut\tutorial9-software-architecture\publisher\target\debug\publisher.exe: C:\Users\USER\Documents\kuliah\Pemrograman\ Lanjut\tutorial9-software-architecture\publisher\src\main.rs
