@@ -5,4 +5,4 @@
 
 ## Running RabbitMQ
 ![alt text](image.png)
-![alt text](image.png)
+![alt text](image-3.png)
