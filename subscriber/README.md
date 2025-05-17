@@ -9,3 +9,4 @@ guest yang kedua => password untuk autentikasi ke server RabbitMQ.
 localhost:5672 => alamat host dan port tempat server RabbitMQ berjalan. localhost menandakan server lokal. sedangkan 5672 merupakan port default. 
 
 ## Running RabbitMQ
+![alt text](image-1.png)
