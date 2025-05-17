@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\kuliah\Pemrograman Lanjut\tutorial9-software-architecture\publisher\target\debug\deps\snafu_derive-0ad23770a1a40341.dll: C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-derive-0.7.5\src\lib.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-derive-0.7.5\src\parse.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-derive-0.7.5\src\shared.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-derive-0.7.5\src\report.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-derive-0.7.5\src\report\no_async.rs
+
+C:\Users\USER\Documents\kuliah\Pemrograman Lanjut\tutorial9-software-architecture\publisher\target\debug\deps\snafu_derive-0ad23770a1a40341.d: C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-derive-0.7.5\src\lib.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-derive-0.7.5\src\parse.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-derive-0.7.5\src\shared.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-derive-0.7.5\src\report.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-derive-0.7.5\src\report\no_async.rs
+
+C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-derive-0.7.5\src\lib.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-derive-0.7.5\src\parse.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-derive-0.7.5\src\shared.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-derive-0.7.5\src\report.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-derive-0.7.5\src\report\no_async.rs:

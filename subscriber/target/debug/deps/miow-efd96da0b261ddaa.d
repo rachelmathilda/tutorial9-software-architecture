@@ -1,0 +1,10 @@
+C:\Users\USER\Documents\kuliah\Pemrograman Lanjut\tutorial9-software-architecture\subscriber\target\debug\deps\libmiow-efd96da0b261ddaa.rmeta: C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\lib.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\handle.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\overlapped.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\iocp.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\net.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\pipe.rs
+
+C:\Users\USER\Documents\kuliah\Pemrograman Lanjut\tutorial9-software-architecture\subscriber\target\debug\deps\miow-efd96da0b261ddaa.d: C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\lib.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\handle.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\overlapped.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\iocp.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\net.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\pipe.rs
+
+C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\lib.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\handle.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\overlapped.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\iocp.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\net.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\pipe.rs:

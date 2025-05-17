@@ -1,0 +1,1 @@
+C:\Users\USER\Documents\kuliah\Pemrograman\ Lanjut\tutorial9-software-architecture\subscriber\target\debug\subscriber.exe: C:\Users\USER\Documents\kuliah\Pemrograman\ Lanjut\tutorial9-software-architecture\subscriber\src\main.rs
